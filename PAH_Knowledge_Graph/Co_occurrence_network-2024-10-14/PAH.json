@@ -1,0 +1,1813 @@
+{
+  "attributes": {
+    "creator": "Gephi 0.10.1"
+  },
+  "options": {
+    "multi": false,
+    "allowSelfLoops": true,
+    "type": "undirected"
+  },
+  "nodes": [
+    {
+      "key": "1",
+      "attributes": {
+        "label": "astrochemistry",
+        "x": 429.51755,
+        "y": 558.5956,
+        "size": 100.0,
+        "color": "#9a96e5",
+        "Degree": 21,
+        "modularity_class": 0
+      }
+    },
+    {
+      "key": "4",
+      "attributes": {
+        "label": "molecular data",
+        "x": 429.70145,
+        "y": 141.5656,
+        "size": 64.0,
+        "color": "#9a96e5",
+        "Degree": 13,
+        "modularity_class": 0
+      }
+    },
+    {
+      "key": "6",
+      "attributes": {
+        "label": "extinction",
+        "x": -382.61172,
+        "y": -30.487375,
+        "size": 86.5,
+        "color": "#f97743",
+        "Degree": 18,
+        "modularity_class": 1
+      }
+    },
+    {
+      "key": "7",
+      "attributes": {
+        "label": "dust",
+        "x": -608.8378,
+        "y": 164.60858,
+        "size": 82.0,
+        "color": "#f97743",
+        "Degree": 17,
+        "modularity_class": 1
+      }
+    },
+    {
+      "key": "59",
+      "attributes": {
+        "label": "ism:",
+        "x": 130.62318,
+        "y": -261.65613,
+        "size": 32.5,
+        "color": "#f97743",
+        "Degree": 6,
+        "modularity_class": 1
+      }
+    },
+    {
+      "key": "62",
+      "attributes": {
+        "label": "line : identification",
+        "x": 267.994,
+        "y": -72.01123,
+        "size": 46.0,
+        "color": "#9a96e5",
+        "Degree": 9,
+        "modularity_class": 0
+      }
+    },
+    {
+      "key": "12",
+      "attributes": {
+        "label": "molecular processes",
+        "x": -223.69205,
+        "y": 661.5227,
+        "size": 41.5,
+        "color": "#9a96e5",
+        "Degree": 8,
+        "modularity_class": 0
+      }
+    },
+    {
+      "key": "61",
+      "attributes": {
+        "label": "ism : molecules",
+        "x": -39.291824,
+        "y": 440.63937,
+        "size": 95.5,
+        "color": "#9a96e5",
+        "Degree": 20,
+        "modularity_class": 0
+      }
+    },
+    {
+      "key": "58",
+      "attributes": {
+        "label": "infrared : ism",
+        "x": 7.368568,
+        "y": 54.393204,
+        "size": 95.5,
+        "color": "#9a96e5",
+        "Degree": 20,
+        "modularity_class": 0
+      }
+    },
+    {
+      "key": "16",
+      "attributes": {
+        "label": "methods: laboratory",
+        "x": 126.8115,
+        "y": 884.5697,
+        "size": 55.0,
+        "color": "#9a96e5",
+        "Degree": 11,
+        "modularity_class": 0
+      }
+    },
+    {
+      "key": "17",
+      "attributes": {
+        "label": "galaxies: active",
+        "x": -941.1331,
+        "y": -540.16003,
+        "size": 32.5,
+        "color": "#f97743",
+        "Degree": 6,
+        "modularity_class": 1
+      }
+    },
+    {
+      "key": "18",
+      "attributes": {
+        "label": "ism: abundances",
+        "x": -508.7225,
+        "y": 355.56952,
+        "size": 46.0,
+        "color": "#f97743",
+        "Degree": 9,
+        "modularity_class": 1
+      }
+    },
+    {
+      "key": "19",
+      "attributes": {
+        "label": "methods: numerical",
+        "x": 1211.5668,
+        "y": -61.098316,
+        "size": 37.0,
+        "color": "#9a96e5",
+        "Degree": 7,
+        "modularity_class": 0
+      }
+    },
+    {
+      "key": "66",
+      "attributes": {
+        "label": "galaxies : high-redshift",
+        "x": -622.63574,
+        "y": -668.79205,
+        "size": 19.0,
+        "color": "#f97743",
+        "Degree": 3,
+        "modularity_class": 1
+      }
+    },
+    {
+      "key": "56",
+      "attributes": {
+        "label": "galaxies : starburst",
+        "x": -44.725655,
+        "y": -773.2292,
+        "size": 19.0,
+        "color": "#f97743",
+        "Degree": 3,
+        "modularity_class": 1
+      }
+    },
+    {
+      "key": "25",
+      "attributes": {
+        "label": "infrared: general",
+        "x": 1096.0153,
+        "y": 32.64608,
+        "size": 19.0,
+        "color": "#9a96e5",
+        "Degree": 3,
+        "modularity_class": 0
+      }
+    },
+    {
+      "key": "55",
+      "attributes": {
+        "label": "galaxies : ism",
+        "x": -171.30511,
+        "y": -355.8187,
+        "size": 46.0,
+        "color": "#f97743",
+        "Degree": 9,
+        "modularity_class": 1
+      }
+    },
+    {
+      "key": "57",
+      "attributes": {
+        "label": "infrared : galaxies",
+        "x": -198.80899,
+        "y": -544.2023,
+        "size": 64.0,
+        "color": "#f97743",
+        "Degree": 13,
+        "modularity_class": 1
+      }
+    },
+    {
+      "key": "65",
+      "attributes": {
+        "label": "galaxies : evolution",
+        "x": 428.7952,
+        "y": -648.652,
+        "size": 32.5,
+        "color": "#f97743",
+        "Degree": 6,
+        "modularity_class": 1
+      }
+    },
+    {
+      "key": "33",
+      "attributes": {
+        "label": "circumstellar matter",
+        "x": -500.8257,
+        "y": 545.27734,
+        "size": 28.0,
+        "color": "#f97743",
+        "Degree": 5,
+        "modularity_class": 1
+      }
+    },
+    {
+      "key": "34",
+      "attributes": {
+        "label": "galaxies : dwarf",
+        "x": -901.55756,
+        "y": -129.20995,
+        "size": 28.0,
+        "color": "#f97743",
+        "Degree": 5,
+        "modularity_class": 1
+      }
+    },
+    {
+      "key": "35",
+      "attributes": {
+        "label": "galaxies: formation",
+        "x": -950.74744,
+        "y": -341.80267,
+        "size": 23.5,
+        "color": "#f97743",
+        "Degree": 4,
+        "modularity_class": 1
+      }
+    },
+    {
+      "key": "36",
+      "attributes": {
+        "label": "h ii regions",
+        "x": -210.61407,
+        "y": 177.3788,
+        "size": 28.0,
+        "color": "#f97743",
+        "Degree": 5,
+        "modularity_class": 1
+      }
+    },
+    {
+      "key": "60",
+      "attributes": {
+        "label": "ism : lines and bands",
+        "x": 556.9924,
+        "y": -158.39807,
+        "size": 77.5,
+        "color": "#9a96e5",
+        "Degree": 16,
+        "modularity_class": 0
+      }
+    },
+    {
+      "key": "38",
+      "attributes": {
+        "label": "ism: clouds",
+        "x": -385.99673,
+        "y": 756.3447,
+        "size": 19.0,
+        "color": "#9a96e5",
+        "Degree": 3,
+        "modularity_class": 0
+      }
+    },
+    {
+      "key": "39",
+      "attributes": {
+        "label": "laboratory: molecular",
+        "x": 1289.6793,
+        "y": 184.11955,
+        "size": 28.0,
+        "color": "#9a96e5",
+        "Degree": 5,
+        "modularity_class": 0
+      }
+    },
+    {
+      "key": "63",
+      "attributes": {
+        "label": "methods :",
+        "x": 1036.8535,
+        "y": 578.33887,
+        "size": 50.5,
+        "color": "#9a96e5",
+        "Degree": 10,
+        "modularity_class": 0
+      }
+    },
+    {
+      "key": "41",
+      "attributes": {
+        "label": "magellanic clouds",
+        "x": -1111.9874,
+        "y": 151.32217,
+        "size": 14.5,
+        "color": "#f97743",
+        "Degree": 2,
+        "modularity_class": 1
+      }
+    },
+    {
+      "key": "42",
+      "attributes": {
+        "label": "numerical",
+        "x": 605.035,
+        "y": 685.85034,
+        "size": 32.5,
+        "color": "#9a96e5",
+        "Degree": 6,
+        "modularity_class": 0
+      }
+    },
+    {
+      "key": "43",
+      "attributes": {
+        "label": "photon-dominated region (pdr)",
+        "x": -1186.8842,
+        "y": 260.44763,
+        "size": 28.0,
+        "color": "#f97743",
+        "Degree": 5,
+        "modularity_class": 1
+      }
+    },
+    {
+      "key": "44",
+      "attributes": {
+        "label": "starburst",
+        "x": -675.59955,
+        "y": -236.55313,
+        "size": 28.0,
+        "color": "#f97743",
+        "Degree": 5,
+        "modularity_class": 1
+      }
+    },
+    {
+      "key": "45",
+      "attributes": {
+        "label": "astrobiology",
+        "x": -379.08893,
+        "y": 988.02136,
+        "size": 14.5,
+        "color": "#9a96e5",
+        "Degree": 2,
+        "modularity_class": 0
+      }
+    },
+    {
+      "key": "46",
+      "attributes": {
+        "label": "cd",
+        "x": -760.4688,
+        "y": -4.3049307,
+        "size": 14.5,
+        "color": "#f97743",
+        "Degree": 2,
+        "modularity_class": 1
+      }
+    },
+    {
+      "key": "48",
+      "attributes": {
+        "label": "galaxies: seyfert",
+        "x": 667.0726,
+        "y": -349.1793,
+        "size": 10.0,
+        "color": "#9a96e5",
+        "Degree": 1,
+        "modularity_class": 0
+      }
+    },
+    {
+      "key": "49",
+      "attributes": {
+        "label": "ism: individual objects (ngc 7023)",
+        "x": 755.9127,
+        "y": 781.99475,
+        "size": 19.0,
+        "color": "#9a96e5",
+        "Degree": 3,
+        "modularity_class": 0
+      }
+    },
+    {
+      "key": "50",
+      "attributes": {
+        "label": "ism: magnetic fields",
+        "x": 674.15466,
+        "y": 987.3025,
+        "size": 10.0,
+        "color": "#28b36a",
+        "Degree": 1,
+        "modularity_class": 2
+      }
+    },
+    {
+      "key": "64",
+      "attributes": {
+        "label": "techniques : spectroscopic",
+        "x": 591.2524,
+        "y": 287.35468,
+        "size": 55.0,
+        "color": "#9a96e5",
+        "Degree": 11,
+        "modularity_class": 0
+      }
+    },
+    {
+      "key": "52",
+      "attributes": {
+        "label": "molecules",
+        "x": 1429.8037,
+        "y": 672.1391,
+        "size": 10.0,
+        "color": "#9a96e5",
+        "Degree": 1,
+        "modularity_class": 0
+      }
+    },
+    {
+      "key": "53",
+      "attributes": {
+        "label": "polarization",
+        "x": 46.08475,
+        "y": 1093.4137,
+        "size": 10.0,
+        "color": "#28b36a",
+        "Degree": 1,
+        "modularity_class": 2
+      }
+    },
+    {
+      "key": "54",
+      "attributes": {
+        "label": "galaxies :",
+        "x": -145.84239,
+        "y": -168.87114,
+        "size": 46.0,
+        "color": "#f97743",
+        "Degree": 9,
+        "modularity_class": 1
+      }
+    }
+  ],
+  "edges": [
+    {
+      "key": "919",
+      "source": "1",
+      "target": "62",
+      "attributes": {
+        "color": "#000000",
+        "weight": 8.0
+      }
+    },
+    {
+      "key": "37",
+      "source": "1",
+      "target": "4",
+      "attributes": {
+        "weight": 21.0
+      }
+    },
+    {
+      "key": "898",
+      "source": "61",
+      "target": "19",
+      "attributes": {
+        "color": "#000000",
+        "weight": 4.0
+      }
+    },
+    {
+      "key": "73",
+      "source": "1",
+      "target": "6",
+      "attributes": {
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "948",
+      "source": "6",
+      "target": "65",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "862",
+      "source": "58",
+      "target": "59",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "911",
+      "source": "62",
+      "target": "39",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "101",
+      "source": "1",
+      "target": "12",
+      "attributes": {
+        "weight": 9.0
+      }
+    },
+    {
+      "key": "888",
+      "source": "61",
+      "target": "60",
+      "attributes": {
+        "color": "#000000",
+        "weight": 19.0
+      }
+    },
+    {
+      "key": "926",
+      "source": "16",
+      "target": "63",
+      "attributes": {
+        "color": "#000000",
+        "weight": 3.0
+      }
+    },
+    {
+      "key": "121",
+      "source": "1",
+      "target": "16",
+      "attributes": {
+        "weight": 6.0
+      }
+    },
+    {
+      "key": "127",
+      "source": "1",
+      "target": "18",
+      "attributes": {
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "129",
+      "source": "1",
+      "target": "19",
+      "attributes": {
+        "weight": 7.0
+      }
+    },
+    {
+      "key": "934",
+      "source": "64",
+      "target": "42",
+      "attributes": {
+        "color": "#000000",
+        "weight": 3.0
+      }
+    },
+    {
+      "key": "142",
+      "source": "1",
+      "target": "25",
+      "attributes": {
+        "weight": 4.0
+      }
+    },
+    {
+      "key": "149",
+      "source": "1",
+      "target": "33",
+      "attributes": {
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "868",
+      "source": "60",
+      "target": "57",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "153",
+      "source": "1",
+      "target": "38",
+      "attributes": {
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "155",
+      "source": "1",
+      "target": "39",
+      "attributes": {
+        "weight": 3.0
+      }
+    },
+    {
+      "key": "921",
+      "source": "63",
+      "target": "42",
+      "attributes": {
+        "color": "#000000",
+        "weight": 3.0
+      }
+    },
+    {
+      "key": "161",
+      "source": "1",
+      "target": "42",
+      "attributes": {
+        "weight": 3.0
+      }
+    },
+    {
+      "key": "164",
+      "source": "1",
+      "target": "45",
+      "attributes": {
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "166",
+      "source": "1",
+      "target": "49",
+      "attributes": {
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "168",
+      "source": "1",
+      "target": "52",
+      "attributes": {
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "882",
+      "source": "1",
+      "target": "60",
+      "attributes": {
+        "color": "#000000",
+        "weight": 15.0
+      }
+    },
+    {
+      "key": "947",
+      "source": "7",
+      "target": "65",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "899",
+      "source": "61",
+      "target": "18",
+      "attributes": {
+        "color": "#000000",
+        "weight": 3.0
+      }
+    },
+    {
+      "key": "843",
+      "source": "58",
+      "target": "19",
+      "attributes": {
+        "color": "#000000",
+        "weight": 4.0
+      }
+    },
+    {
+      "key": "883",
+      "source": "60",
+      "target": "59",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "932",
+      "source": "64",
+      "target": "62",
+      "attributes": {
+        "color": "#000000",
+        "weight": 4.0
+      }
+    },
+    {
+      "key": "924",
+      "source": "61",
+      "target": "63",
+      "attributes": {
+        "color": "#000000",
+        "weight": 3.0
+      }
+    },
+    {
+      "key": "945",
+      "source": "65",
+      "target": "56",
+      "attributes": {
+        "color": "#000000",
+        "weight": 3.0
+      }
+    },
+    {
+      "key": "918",
+      "source": "4",
+      "target": "62",
+      "attributes": {
+        "color": "#000000",
+        "weight": 7.0
+      }
+    },
+    {
+      "key": "900",
+      "source": "61",
+      "target": "16",
+      "attributes": {
+        "color": "#000000",
+        "weight": 4.0
+      }
+    },
+    {
+      "key": "863",
+      "source": "54",
+      "target": "59",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "940",
+      "source": "4",
+      "target": "64",
+      "attributes": {
+        "color": "#000000",
+        "weight": 13.0
+      }
+    },
+    {
+      "key": "409",
+      "source": "4",
+      "target": "12",
+      "attributes": {
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "889",
+      "source": "61",
+      "target": "58",
+      "attributes": {
+        "color": "#000000",
+        "weight": 23.0
+      }
+    },
+    {
+      "key": "420",
+      "source": "4",
+      "target": "16",
+      "attributes": {
+        "weight": 5.0
+      }
+    },
+    {
+      "key": "425",
+      "source": "4",
+      "target": "18",
+      "attributes": {
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "427",
+      "source": "4",
+      "target": "19",
+      "attributes": {
+        "weight": 6.0
+      }
+    },
+    {
+      "key": "935",
+      "source": "64",
+      "target": "39",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "436",
+      "source": "4",
+      "target": "25",
+      "attributes": {
+        "weight": 4.0
+      }
+    },
+    {
+      "key": "943",
+      "source": "57",
+      "target": "65",
+      "attributes": {
+        "color": "#000000",
+        "weight": 3.0
+      }
+    },
+    {
+      "key": "442",
+      "source": "4",
+      "target": "42",
+      "attributes": {
+        "weight": 3.0
+      }
+    },
+    {
+      "key": "902",
+      "source": "61",
+      "target": "12",
+      "attributes": {
+        "color": "#000000",
+        "weight": 5.0
+      }
+    },
+    {
+      "key": "904",
+      "source": "61",
+      "target": "7",
+      "attributes": {
+        "color": "#000000",
+        "weight": 5.0
+      }
+    },
+    {
+      "key": "844",
+      "source": "58",
+      "target": "18",
+      "attributes": {
+        "color": "#000000",
+        "weight": 3.0
+      }
+    },
+    {
+      "key": "905",
+      "source": "61",
+      "target": "6",
+      "attributes": {
+        "color": "#000000",
+        "weight": 5.0
+      }
+    },
+    {
+      "key": "906",
+      "source": "61",
+      "target": "4",
+      "attributes": {
+        "color": "#000000",
+        "weight": 14.0
+      }
+    },
+    {
+      "key": "907",
+      "source": "1",
+      "target": "61",
+      "attributes": {
+        "color": "#000000",
+        "weight": 19.0
+      }
+    },
+    {
+      "key": "933",
+      "source": "64",
+      "target": "49",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "925",
+      "source": "60",
+      "target": "63",
+      "attributes": {
+        "color": "#000000",
+        "weight": 3.0
+      }
+    },
+    {
+      "key": "829",
+      "source": "57",
+      "target": "17",
+      "attributes": {
+        "color": "#000000",
+        "weight": 6.0
+      }
+    },
+    {
+      "key": "487",
+      "source": "6",
+      "target": "7",
+      "attributes": {
+        "weight": 23.0
+      }
+    },
+    {
+      "key": "845",
+      "source": "58",
+      "target": "16",
+      "attributes": {
+        "color": "#000000",
+        "weight": 3.0
+      }
+    },
+    {
+      "key": "939",
+      "source": "58",
+      "target": "64",
+      "attributes": {
+        "color": "#000000",
+        "weight": 12.0
+      }
+    },
+    {
+      "key": "890",
+      "source": "61",
+      "target": "57",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "520",
+      "source": "6",
+      "target": "18",
+      "attributes": {
+        "weight": 4.0
+      }
+    },
+    {
+      "key": "949",
+      "source": "65",
+      "target": "66",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "818",
+      "source": "17",
+      "target": "56",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "830",
+      "source": "7",
+      "target": "57",
+      "attributes": {
+        "color": "#000000",
+        "weight": 3.0
+      }
+    },
+    {
+      "key": "808",
+      "source": "17",
+      "target": "55",
+      "attributes": {
+        "color": "#000000",
+        "weight": 3.0
+      }
+    },
+    {
+      "key": "815",
+      "source": "55",
+      "target": "54",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "870",
+      "source": "60",
+      "target": "42",
+      "attributes": {
+        "color": "#000000",
+        "weight": 3.0
+      }
+    },
+    {
+      "key": "539",
+      "source": "6",
+      "target": "33",
+      "attributes": {
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "541",
+      "source": "6",
+      "target": "34",
+      "attributes": {
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "543",
+      "source": "6",
+      "target": "36",
+      "attributes": {
+        "weight": 3.0
+      }
+    },
+    {
+      "key": "546",
+      "source": "6",
+      "target": "41",
+      "attributes": {
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "548",
+      "source": "6",
+      "target": "43",
+      "attributes": {
+        "weight": 3.0
+      }
+    },
+    {
+      "key": "551",
+      "source": "6",
+      "target": "44",
+      "attributes": {
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "553",
+      "source": "6",
+      "target": "46",
+      "attributes": {
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "929",
+      "source": "1",
+      "target": "63",
+      "attributes": {
+        "color": "#000000",
+        "weight": 6.0
+      }
+    },
+    {
+      "key": "865",
+      "source": "7",
+      "target": "59",
+      "attributes": {
+        "color": "#000000",
+        "weight": 3.0
+      }
+    },
+    {
+      "key": "891",
+      "source": "61",
+      "target": "55",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "565",
+      "source": "7",
+      "target": "18",
+      "attributes": {
+        "weight": 4.0
+      }
+    },
+    {
+      "key": "950",
+      "source": "57",
+      "target": "66",
+      "attributes": {
+        "color": "#000000",
+        "weight": 4.0
+      }
+    },
+    {
+      "key": "854",
+      "source": "1",
+      "target": "58",
+      "attributes": {
+        "color": "#000000",
+        "weight": 18.0
+      }
+    },
+    {
+      "key": "831",
+      "source": "6",
+      "target": "57",
+      "attributes": {
+        "color": "#000000",
+        "weight": 3.0
+      }
+    },
+    {
+      "key": "816",
+      "source": "55",
+      "target": "34",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "938",
+      "source": "60",
+      "target": "64",
+      "attributes": {
+        "color": "#000000",
+        "weight": 9.0
+      }
+    },
+    {
+      "key": "584",
+      "source": "7",
+      "target": "33",
+      "attributes": {
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "586",
+      "source": "7",
+      "target": "34",
+      "attributes": {
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "588",
+      "source": "7",
+      "target": "36",
+      "attributes": {
+        "weight": 3.0
+      }
+    },
+    {
+      "key": "591",
+      "source": "7",
+      "target": "41",
+      "attributes": {
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "593",
+      "source": "7",
+      "target": "43",
+      "attributes": {
+        "weight": 3.0
+      }
+    },
+    {
+      "key": "596",
+      "source": "7",
+      "target": "44",
+      "attributes": {
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "598",
+      "source": "7",
+      "target": "46",
+      "attributes": {
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "928",
+      "source": "4",
+      "target": "63",
+      "attributes": {
+        "color": "#000000",
+        "weight": 3.0
+      }
+    },
+    {
+      "key": "936",
+      "source": "64",
+      "target": "16",
+      "attributes": {
+        "color": "#000000",
+        "weight": 4.0
+      }
+    },
+    {
+      "key": "847",
+      "source": "58",
+      "target": "12",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "824",
+      "source": "57",
+      "target": "54",
+      "attributes": {
+        "color": "#000000",
+        "weight": 3.0
+      }
+    },
+    {
+      "key": "869",
+      "source": "60",
+      "target": "55",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "849",
+      "source": "58",
+      "target": "7",
+      "attributes": {
+        "color": "#000000",
+        "weight": 6.0
+      }
+    },
+    {
+      "key": "850",
+      "source": "58",
+      "target": "6",
+      "attributes": {
+        "color": "#000000",
+        "weight": 6.0
+      }
+    },
+    {
+      "key": "866",
+      "source": "6",
+      "target": "59",
+      "attributes": {
+        "color": "#000000",
+        "weight": 3.0
+      }
+    },
+    {
+      "key": "867",
+      "source": "1",
+      "target": "59",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "930",
+      "source": "58",
+      "target": "63",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "810",
+      "source": "7",
+      "target": "55",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "877",
+      "source": "60",
+      "target": "7",
+      "attributes": {
+        "color": "#000000",
+        "weight": 3.0
+      }
+    },
+    {
+      "key": "878",
+      "source": "60",
+      "target": "6",
+      "attributes": {
+        "color": "#000000",
+        "weight": 4.0
+      }
+    },
+    {
+      "key": "879",
+      "source": "58",
+      "target": "60",
+      "attributes": {
+        "color": "#000000",
+        "weight": 16.0
+      }
+    },
+    {
+      "key": "914",
+      "source": "61",
+      "target": "62",
+      "attributes": {
+        "color": "#000000",
+        "weight": 8.0
+      }
+    },
+    {
+      "key": "892",
+      "source": "61",
+      "target": "43",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "915",
+      "source": "60",
+      "target": "62",
+      "attributes": {
+        "color": "#000000",
+        "weight": 6.0
+      }
+    },
+    {
+      "key": "916",
+      "source": "58",
+      "target": "62",
+      "attributes": {
+        "color": "#000000",
+        "weight": 6.0
+      }
+    },
+    {
+      "key": "697",
+      "source": "12",
+      "target": "16",
+      "attributes": {
+        "weight": 3.0
+      }
+    },
+    {
+      "key": "700",
+      "source": "12",
+      "target": "18",
+      "attributes": {
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "702",
+      "source": "12",
+      "target": "38",
+      "attributes": {
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "704",
+      "source": "12",
+      "target": "45",
+      "attributes": {
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "872",
+      "source": "60",
+      "target": "19",
+      "attributes": {
+        "color": "#000000",
+        "weight": 3.0
+      }
+    },
+    {
+      "key": "894",
+      "source": "61",
+      "target": "38",
+      "attributes": {
+        "color": "#000000",
+        "weight": 3.0
+      }
+    },
+    {
+      "key": "895",
+      "source": "61",
+      "target": "36",
+      "attributes": {
+        "color": "#000000",
+        "weight": 3.0
+      }
+    },
+    {
+      "key": "896",
+      "source": "61",
+      "target": "33",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "837",
+      "source": "58",
+      "target": "55",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "811",
+      "source": "6",
+      "target": "55",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "822",
+      "source": "57",
+      "target": "56",
+      "attributes": {
+        "color": "#000000",
+        "weight": 4.0
+      }
+    },
+    {
+      "key": "838",
+      "source": "58",
+      "target": "49",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "839",
+      "source": "58",
+      "target": "48",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "740",
+      "source": "16",
+      "target": "18",
+      "attributes": {
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "937",
+      "source": "61",
+      "target": "64",
+      "attributes": {
+        "color": "#000000",
+        "weight": 10.0
+      }
+    },
+    {
+      "key": "745",
+      "source": "16",
+      "target": "33",
+      "attributes": {
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "747",
+      "source": "16",
+      "target": "42",
+      "attributes": {
+        "weight": 3.0
+      }
+    },
+    {
+      "key": "825",
+      "source": "57",
+      "target": "44",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "759",
+      "source": "17",
+      "target": "35",
+      "attributes": {
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "761",
+      "source": "19",
+      "target": "25",
+      "attributes": {
+        "weight": 3.0
+      }
+    },
+    {
+      "key": "941",
+      "source": "1",
+      "target": "64",
+      "attributes": {
+        "color": "#000000",
+        "weight": 14.0
+      }
+    },
+    {
+      "key": "823",
+      "source": "57",
+      "target": "55",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "842",
+      "source": "58",
+      "target": "36",
+      "attributes": {
+        "color": "#000000",
+        "weight": 3.0
+      }
+    },
+    {
+      "key": "835",
+      "source": "57",
+      "target": "34",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "922",
+      "source": "63",
+      "target": "39",
+      "attributes": {
+        "color": "#000000",
+        "weight": 3.0
+      }
+    },
+    {
+      "key": "793",
+      "source": "35",
+      "target": "44",
+      "attributes": {
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "795",
+      "source": "36",
+      "target": "43",
+      "attributes": {
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "797",
+      "source": "50",
+      "target": "53",
+      "attributes": {
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "798",
+      "source": "54",
+      "target": "44",
+      "attributes": {
+        "color": "#000000",
+        "weight": 3.0
+      }
+    },
+    {
+      "key": "799",
+      "source": "54",
+      "target": "35",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "852",
+      "source": "58",
+      "target": "4",
+      "attributes": {
+        "color": "#000000",
+        "weight": 15.0
+      }
+    },
+    {
+      "key": "801",
+      "source": "7",
+      "target": "54",
+      "attributes": {
+        "color": "#000000",
+        "weight": 3.0
+      }
+    },
+    {
+      "key": "802",
+      "source": "6",
+      "target": "54",
+      "attributes": {
+        "color": "#000000",
+        "weight": 3.0
+      }
+    },
+    {
+      "key": "803",
+      "source": "54",
+      "target": "34",
+      "attributes": {
+        "color": "#000000",
+        "weight": 3.0
+      }
+    },
+    {
+      "key": "873",
+      "source": "60",
+      "target": "18",
+      "attributes": {
+        "color": "#000000",
+        "weight": 3.0
+      }
+    },
+    {
+      "key": "826",
+      "source": "57",
+      "target": "35",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "840",
+      "source": "58",
+      "target": "43",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "880",
+      "source": "4",
+      "target": "60",
+      "attributes": {
+        "color": "#000000",
+        "weight": 16.0
+      }
+    },
+    {
+      "key": "951",
+      "source": "17",
+      "target": "66",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "855",
+      "source": "58",
+      "target": "54",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "931",
+      "source": "64",
+      "target": "63",
+      "attributes": {
+        "color": "#000000",
+        "weight": 5.0
+      }
+    },
+    {
+      "key": "923",
+      "source": "62",
+      "target": "63",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "944",
+      "source": "17",
+      "target": "65",
+      "attributes": {
+        "color": "#000000",
+        "weight": 2.0
+      }
+    },
+    {
+      "key": "874",
+      "source": "60",
+      "target": "16",
+      "attributes": {
+        "color": "#000000",
+        "weight": 4.0
+      }
+    },
+    {
+      "key": "893",
+      "source": "61",
+      "target": "39",
+      "attributes": {
+        "color": "#000000",
+        "weight": 3.0
+      }
+    },
+    {
+      "key": "913",
+      "source": "62",
+      "target": "19",
+      "attributes": {
+        "color": "#000000",
+        "weight": 3.0
+      }
+    }
+  ]
+}
